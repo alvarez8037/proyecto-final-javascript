@@ -1,0 +1,21 @@
+[{
+        "nombre": "Tóner de refinación de poros",
+        "precio": 949,
+        "id":1
+    },
+    {
+        "nombre": "Neutrogena Hydro Boost Gel",
+        "precio": 1053,
+        "id":2
+    },
+    {
+        "nombre": "Máscara facial de avena Aveeno",
+        "precio": 1376,
+        "id":3
+    },
+    {
+        "nombre": "L'Oréal Paris Derm Intensives",
+        "precio": 2987,
+        "id":4
+    }
+]
